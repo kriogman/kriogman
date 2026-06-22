@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Over a decade designing, building, and operating cloud-native platforms. I work at the intersection of infrastructure, reliability, and developer experience — the systems and pipelines that let product teams ship fast without breaking things.
-
+DevOps / Site Reliability Engineer with over a decade of experience designing, building, and operating cloud-native platforms on AWS, working at the intersection of infrastructure, reliability, and developer experience. Specialized in infrastructure as code, Kubernetes, CI/CD automation, and observability. Designs systems for high availability, scalability and resilience, with reproducible, maintainable infrastructure, and makes the trade-offs between performance, security, and cost that keep them reliable in production.
 ---
 
 ## What I do
@@ -43,6 +42,29 @@ Over a decade designing, building, and operating cloud-native platforms. I work 
 | Data & Messaging | Aurora PostgreSQL · ElastiCache · Apache Kafka · RabbitMQ · MongoDB · MySQL |
 | Scripting | Python · Bash |
 
+---
+---
+ 
+## Technical Skills
+ 
+**Cloud & Infrastructure as Code:** AWS (EKS, RDS, RDS Proxy, MSK/Kafka, ElastiCache, EFS, EBS, VPC, IAM, KMS, Route53, S3, SES, SNS, ECR, Lambda, Secrets Manager, AWS Backup), Terraform, Terragrunt, multi-account and multi-environment design
+ 
+**Containers & Orchestration:** Kubernetes (EKS), Docker, Helm, Karpenter, Cluster Autoscaler
+ 
+**GitOps & CI/CD:** ArgoCD (Applications, ApplicationSets, AppProjects), GitLab CI, Git
+ 
+**Observability:** Prometheus, Grafana, Loki, Jaeger, OpenTelemetry, Datadog, ELK, Sentry
+ 
+**Security & Secrets Management:** HashiCorp Vault, ArgoCD Vault Plugin (AVP), IAM (least privilege, role assumption), AWS Secrets Manager, EKS Pod Identity association
+ 
+**Networking:** AWS VPC design (subnets, route tables, NAT, Security Groups), Route53, Nginx, AWS NLB, AWS Load Balancer Controller, ingress-nginx, Kong API Gateway, cert-manager, Cloudflare, Let's Encrypt, OpenVPN
+ 
+**Data & Streaming:** Aurora PostgreSQL, RDS, DynamoDB, ElastiCache (Redis), MongoDB, MySQL, Apache Kafka (MSK), RabbitMQ
+ 
+**Languages:** Python, Bash
+ 
+**Tooling:** AWS CLI, kubectl, kubectx, kubens, Lens, Docker Compose, jq, yq, stern, MCP servers (Grafana, Prometheus, AWS, EKS), Claude Code
+ 
 ---
 
 ## How I think
