@@ -1,6 +1,6 @@
 ## Hi there, I'm Javier. 👋
-**DevOps · SRE · Cloud Engineering**
-Building reliable, scalable infrastructure for fast-moving teams — so shipping is the default and ops is never the bottleneck.
+**DevOps Engineer · Site Reliability Engineer · Platform Engineer · Cloud Engineer**
+DevOps / Site Reliability Engineer with over a decade of experience designing, building, and operating cloud-native platforms on AWS, working at the intersection of infrastructure, reliability, and developer experience. Specialized in infrastructure as code, Kubernetes, CI/CD automation, and observability. Designs systems for high availability, scalability and resilience, with reproducible, maintainable infrastructure, and makes the trade-offs between performance, security, and cost that keep them reliable in production.
 
 <!--
 **kriogman/kriogman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-DevOps / Site Reliability Engineer with over a decade of experience designing, building, and operating cloud-native platforms on AWS, working at the intersection of infrastructure, reliability, and developer experience. Specialized in infrastructure as code, Kubernetes, CI/CD automation, and observability. Designs systems for high availability, scalability and resilience, with reproducible, maintainable infrastructure, and makes the trade-offs between performance, security, and cost that keep them reliable in production.
 ---
 
 ## What I do
@@ -27,22 +25,7 @@ DevOps / Site Reliability Engineer with over a decade of experience designing, b
 - **CI/CD** — design centralized pipeline templates that give teams full ownership of their delivery lifecycle, from security scanning to multi-environment deployment.
 - **Observability** — wire up metrics, logs, and traces across the full stack (Prometheus, Grafana, Loki, Jaeger, OpenTelemetry, Datadog) so problems are visible before they become incidents.
 - **Reliability engineering** — SLIs/SLOs, error budgets, blameless postmortems, incident response playbooks.
----
 
-## Tech
-
-| Area | Tools |
-|------|-------|
-| Cloud & Compute | AWS · EKS · Kubernetes · Karpenter |
-| IaC | Terraform · Terragrunt · Ansible · Chef · Packer |
-| GitOps & CI/CD | ArgoCD · GitLab CI · Jenkins · Docker |
-| Observability | Prometheus · Grafana · Loki · Jaeger · OpenTelemetry · Datadog · ELK |
-| Security | HashiCorp Vault |
-| Networking | Kong · Nginx · Apache |
-| Data & Messaging | Aurora PostgreSQL · ElastiCache · Apache Kafka · RabbitMQ · MongoDB · MySQL |
-| Scripting | Python · Bash |
-
----
 ---
  
 ## Technical Skills
